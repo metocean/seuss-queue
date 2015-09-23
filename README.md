@@ -1,2 +1,3 @@
-# seuss-queue
-Efficient memory based queue
+# Seuss Queue
+
+Efficient memory based queue.

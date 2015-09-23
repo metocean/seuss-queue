@@ -1,0 +1,24 @@
+{
+  "name": "seuss-queue",
+  "version": "0.1.0",
+  "description": "Efficient memory based queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odojs/seuss-queue.git"
+  },
+  "keywords": [
+    "queue"
+  ],
+  "author": "Thomas Coats <thomas.coats@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odojs/seuss-queue/issues"
+  },
+  "homepage": "https://github.com/odojs/seuss-queue#readme",
+  "dependencies": {
+  }
+}
