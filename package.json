@@ -1,6 +1,6 @@
 {
   "name": "seuss-queue",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Efficient memory based queue",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,5 @@
     "url": "https://github.com/metocean/seuss-queue/issues"
   },
   "homepage": "https://github.com/metocean/seuss-queue#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
