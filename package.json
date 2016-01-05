@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/odojs/seuss-queue.git"
+    "url": "git+https://github.com/metocean/seuss-queue.git"
   },
   "keywords": [
     "queue"
@@ -16,9 +16,9 @@
   "author": "Thomas Coats <thomas.coats@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/odojs/seuss-queue/issues"
+    "url": "https://github.com/metocean/seuss-queue/issues"
   },
-  "homepage": "https://github.com/odojs/seuss-queue#readme",
+  "homepage": "https://github.com/metocean/seuss-queue#readme",
   "dependencies": {
   }
 }
