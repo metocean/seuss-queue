@@ -1,6 +1,6 @@
 {
   "name": "seuss-queue",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Efficient memory based queue",
   "main": "index.js",
   "scripts": {
